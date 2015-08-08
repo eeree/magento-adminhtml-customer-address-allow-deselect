@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Eeree_AdminHtml>
+            <version>0.1.0</version>
+        </Eeree_AdminHtml>
+    </modules>
+    <adminhtml>
+        <layout>
+            <updates>
+                <eeree_adminhtml>
+                    <file>eeree\adminhtml.xml</file>
+                </eeree_adminhtml>
+            </updates>
+        </layout>
+    </adminhtml>
+</config>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <adminhtml_customer_edit>
+        <reference name="head">
+            <action method="addJs">
+                <file>eeree/adminhtml/customer/tab/customer_address.js</file>
+            </action>
+        </reference>
+    </adminhtml_customer_edit>
+</layout>
